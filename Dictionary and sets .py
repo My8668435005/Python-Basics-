@@ -76,7 +76,6 @@ print("itmes: ", list(student.items()) )
 pair = list(student.items())
 print(pair[0])
 
-
 #get method return value on the basis of key
 print("value of key name: ",student.get("name"))
 
@@ -84,6 +83,8 @@ print("value of key name: ",student.get("name"))
 new_dic = {"city":"nashik", "state": "maharastra"}
 student.update(new_dic)
 print("new dictinory: ",student)
+
+
 
 
 

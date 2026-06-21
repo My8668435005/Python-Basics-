@@ -20,7 +20,7 @@ print("single value tuple: ",tup2)
 
 #find index or time of element
 
-print("index :",tup.index(2))
+print("index :",tup.index(2)) 
 print("count: ", tup.count(2))
 
 
